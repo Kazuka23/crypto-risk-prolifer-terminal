@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Terminal%20%2F%20CLI-black?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://github.com/Kazuka23)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
-[![CODEFEST](https://img.shields.io/badge/UOB%20CODEFEST-2026-blueviolet?style=for-the-badge)]()
+[![CRYPTO](https://img.shields.io/badge/KZ%PROJECT-2026-blueviolet?style=for-the-badge)]()
 
 <br/>
 
