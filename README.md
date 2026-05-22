@@ -131,8 +131,7 @@ crypto-risk-profiler/
 
 [![GitHub](https://img.shields.io/badge/Made%20by-Kazuka23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kazuka23)
 
-Built for the **UOB My Digital Space CODEFEST 2026** — High School Category
-under the **Financial Literacy** theme.
+Built for the **relieve boredom**
 
 </div>
 
@@ -183,7 +182,7 @@ If you'd like to support development and keep this project alive:
 
 <div align="center">
 
-[![Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://saweria.co/[Insert%20Saweria%20Link%20Here])
+[![Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://saweria.co/siryagami)
 
 > 💛 Every contribution, no matter how small, is deeply appreciated.
 
