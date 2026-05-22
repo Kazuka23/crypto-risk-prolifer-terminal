@@ -1,18 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║          CRYPTO RISK PROFILER TERMINAL — app.py                 ║
-║          UOB My Digital Space CODEFEST 2026                     ║
-║          Theme: Financial Literacy                               ║
-╠══════════════════════════════════════════════════════════════════╣
-║  A quantitative CLI tool for crypto portfolio risk analysis.    ║
-║  Computes Annualized Volatility, Sharpe Ratio, Historical       ║
-║  Crash Scenarios, and Risk Profiles — with rich terminal UI.    ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Usage:     python app.py                                       ║
-║  Requires:  pip install yfinance rich pandas numpy              ║
-╚══════════════════════════════════════════════════════════════════╝
-"""
-
 # ──────────────────────────────────────────────────────────────────
 # IMPORTS
 # ──────────────────────────────────────────────────────────────────
